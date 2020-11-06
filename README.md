@@ -15,3 +15,6 @@
 13- Implementing Login page and 
 14- Finally, Deploying it into Firebase
 
+
+
+For multipage and for data management , I have used React Router and react context API
