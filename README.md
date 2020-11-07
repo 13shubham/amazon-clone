@@ -17,4 +17,7 @@
 
 
 
-For multipage and for data management , I have used React Router and react context API
+For multipage and for data management , I have used React Router and react context API respectively.
+-------------------------------------------------------------------------------------------------------------
+Please click below site which has been deployed into Firebase to see the Website
+https://clone-c6835.web.app/
