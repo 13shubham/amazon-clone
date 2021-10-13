@@ -24,6 +24,9 @@
   "repository": {
     "url": "git@github.com:13shubham/amazon-clone.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@13shubham"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
