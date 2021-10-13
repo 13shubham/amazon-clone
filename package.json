@@ -1,5 +1,5 @@
 {
-  "name": "amazon-clone",
+  "name": "@13shubham/amazon-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +20,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "repository": {
+    "url": "git@github.com:13shubham/amazon-clone.git"
   },
   "eslintConfig": {
     "extends": [
